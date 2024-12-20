@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: "Gautam"
+    given-names: "YourFirstName"
+title: "My First Git Project"
+version: "1.0"
+doi: "10.1234/yourdoi" # If you have a DOI, otherwise leave this blank.
+date-released: "2024-12-20"
